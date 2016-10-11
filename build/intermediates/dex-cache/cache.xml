@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_efcf9bfeb9e1dd6fe3cb8dc583420063c63f31c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,15 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6f0a4078ea06e6a35b59435d253cd96fd741d27d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -57,21 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f38ecb29e9cf7b9ef18cde70953a1e8bc7b537a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="108e72730d4a08eb9f521e1529e5287470a199f2">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/instant-run_cd674d81bafdebfa96a32a56a58d83d6b6341bb4.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_48c3054781e45740480f48184c836cb6309da285.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +57,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/library-2.4.0_13ec56d7cce00cb047856bb4cb4ec146b7749d9f.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b4100353792baec6066a63ed5635c92004bb4ee6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cc04c5baabd9de55e8e194c7f6b033c99a741993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_833a7aabca8b60e5444547f7ed2d4215bb43ed18.jar" />
     </item>
     <item
         is-multidex="false"
@@ -99,15 +90,6 @@
         revision="23.0.3"
         sha1="ce1ffd9b951ae02f8eea5782214031a9267094a0">
         <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_3bc5daa4c9278cc67cb6f0f830b576c773d49cdb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_122f0f6eaedd61ee0c254cdf95e84a8e46b65366.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,12 +111,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Ivan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b2fd8ea8f282a56d42b008d0f1d5fd6b96ec5023.jar" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_247d78936316824c577300643b92bed505c43e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_047f88d535ffdcc03771fa9d3baf8f34513b64f8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -147,12 +138,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c753cf432d0316468c93966829fe8d8bc82e3ab2.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_46afc63b10ebac198fad9a25dc1e89f7e83ef337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8bd0632e4f3353f70d7f9d069bf54a9d02a72094.jar" />
     </item>
     <item
         is-multidex="false"
@@ -162,6 +162,150 @@
         revision="23.0.3"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_8ae84b11c148f3bb3ae4caeeaf0459ed71f49fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_efcf9bfeb9e1dd6fe3cb8dc583420063c63f31c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_6f0a4078ea06e6a35b59435d253cd96fd741d27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f38ecb29e9cf7b9ef18cde70953a1e8bc7b537a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_477c804bc25e991d0583cb7ecadbcffe33129cdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_1430863ec8837c8754242153b52878d85472bb90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="108e72730d4a08eb9f521e1529e5287470a199f2">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/instant-run_cd674d81bafdebfa96a32a56a58d83d6b6341bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/library-2.4.0_13ec56d7cce00cb047856bb4cb4ec146b7749d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f75f913ae2be5bef2cdf044b195eb297d7dd205c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4e494494999e4fed9e17620eab8ad53e3a273acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_122f0f6eaedd61ee0c254cdf95e84a8e46b65366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd5183acc2809cf508e3b68ab2f52c4d399f2a64">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/instant-run_6b6d8116aaca1b7e35b7b7666c8b805dbdcdea22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="470129d225b82a7e0fbf4c87c6332c7a84fc3f5b">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f4d7a54ef68d2def8369199ea3c6b37cc23384bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b2fd8ea8f282a56d42b008d0f1d5fd6b96ec5023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c8494d053d142ebd07f9c505431210cb338d73fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Ivan/AndroidStudioProjects/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c753cf432d0316468c93966829fe8d8bc82e3ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Ivan/Repositorios/MaterialSpinner/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_488467dd1109f1771eaf7bf3c86b1e1e40a60817.jar" />
     </item>
 
 </items>
